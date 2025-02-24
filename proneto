@@ -1,0 +1,26 @@
+/projeto-food
+¦
++-- /css
+¦   +-- styles.css          # Estilos CSS
+¦
++-- /js
+¦   +-- scripts.js          # JavaScript para interatividade
+¦
++-- /img                    # Pasta para imagens dos produtos
+¦
++-- /includes
+¦   +-- conexao.php         # Arquivo de conexão com o banco de dados
+¦   +-- header.php          # Cabeçalho do site
+¦   +-- footer.php          # Rodapé do site
+¦   +-- funcoes.php         # Funções PHP úteis
+¦
++-- /produtos               # Páginas de exibição de produtos
+¦   +-- produto1.php        # Exemplo de página de produto
+¦
++-- carrinho.php            # Página do carrinho de compras
++-- index.php               # Página inicial
++-- cadastro.php            # Página de cadastro de usuários
++-- login.php               # Página de login
++-- admin                   # Área administrativa
+    +-- cadastrar_produto.php
+    +-- gerenciar_produtos.php
